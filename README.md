@@ -103,7 +103,7 @@ Concrete_Strength_Predictor/
 ### **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/Concrete_Strength_Predictor.git
+git clone https://github.com/parshva106/Concrete_Strength_Predictor.git
 cd Concrete_Strength_Predictor
 ```
 
